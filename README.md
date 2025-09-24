@@ -1,6 +1,6 @@
 # Rock–Paper–Scissors–Lizard–Spock (RPSSL)
 
-A fun console-based implementation of **Rock–Paper–Scissors–Lizard–Spock** written in C.  
+A console-based implementation of **Rock–Paper–Scissors–Lizard–Spock** written in C.  
 The game is extended from the classic Rock–Paper–Scissors to include **Lizard** and **Spock**, popularized by *The Big Bang Theory*.
 
 ---
@@ -35,7 +35,7 @@ The game is extended from the classic Rock–Paper–Scissors to include **Lizar
 
 ---
 
-##Example run:
+## Example run:
 
 Welcome to RPSSL! Begin game? (Y/N): y
 Make your choice!: ROCK
@@ -44,12 +44,13 @@ Player chose: ROCK
 It is computer's turn to make a choice.
 Thinking.....
 Finalizing input.....
-Computer chose SCISSORS
+Computer chose SCISSORS.
+Player wins this round! Rock beats SCISSORS.
+Player points: 1. Computer points: 0.
+Make your choice:
 
-Player wins this round! ROCK beats SCISSORS
-Player points: 1. Computer points: 0
-Make your choice: 
 ---
+
 ## Notes
 
 Invalid inputs are rejected with a re-prompt.
