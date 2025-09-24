@@ -5,7 +5,7 @@ The game is extended from the classic Rock–Paper–Scissors to include **Lizar
 
 ---
 
-## 🎮 How to play
+##  How to play
 1. Run the program.
 2. When prompted:
    - Enter **Y** to start playing.
@@ -20,7 +20,7 @@ The game is extended from the classic Rock–Paper–Scissors to include **Lizar
 
 ---
 
-## 🏆 Rules
+## Rules
 - **Rock** crushes Scissors and crushes Lizard.  
 - **Paper** covers Rock and disproves Spock.  
 - **Scissors** cuts Paper and decapitates Lizard.  
@@ -35,6 +35,8 @@ The game is extended from the classic Rock–Paper–Scissors to include **Lizar
 
 ---
 
+##Example run:
+
 Welcome to RPSSL! Begin game? (Y/N): y
 Make your choice!: ROCK
 Player chose: ROCK
@@ -46,8 +48,7 @@ Computer chose SCISSORS
 
 Player wins this round! ROCK beats SCISSORS
 Player points: 1. Computer points: 0
-
-Make your new choice:
+Make your choice: 
 ---
 ## Notes
 
